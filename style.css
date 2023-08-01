@@ -7,3 +7,16 @@ body{
     background: linear-gradient(to right, hsl(273, 39%, 68%),
      hsl(226, 70%, 69%));
 }
+
+.clock{
+    width: 300px;
+    height: 300px;
+    background-color: rgba(255, 255, 255, .7);
+    border-radius: 50%;
+    border: 2px solid black
+}
+/*play at 4:08*/
+
+.clock .number {
+
+}
